@@ -76,7 +76,7 @@ var SCOREAPP = SCOREAPP || {}; //Namespace aanmaken
                 },
                 '*':function() { //catch all
                     //uitvoeren als je iets onbekends tegen komt
-                    //error feedback? of de homepag?
+                    //error feedback? of de homepage?
                 }
             });
 
