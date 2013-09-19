@@ -1,8 +1,7 @@
-
 var SCOREAPP = SCOREAPP || {}; //Namespace aanmaken
 
 
-(function () { //self invoking function
+(function () { // anonymous self invoking function
 
     //controler
     SCOREAPP.controler = {
